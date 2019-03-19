@@ -1,0 +1,5 @@
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameV1\obj\Debug\GuessingGameV2Form.GuessForm.resources
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameV1\obj\Debug\GuessingGameV2Form.Properties.Resources.resources
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameV1\obj\Debug\GuessingGameV2Form.UserSpecificSettings.resources
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameV1\obj\Debug\GuessingGameV2_Form.csproj.GenerateResource.cache
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameV1\obj\Debug\GuessingGameV2_Form.csproj.CoreCompileInputs.cache

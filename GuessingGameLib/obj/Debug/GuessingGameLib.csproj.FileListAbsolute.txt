@@ -1,0 +1,8 @@
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameLib\obj\Debug\GuessingGameLib.csproj.CoreCompileInputs.cache
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameLib\bin\Debug\GuessingGameLib.dll.config
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameLib\bin\Debug\GuessingGameLib.dll
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameLib\bin\Debug\GuessingGameLib.pdb
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameLib\obj\Debug\GuessingGameLib.dll
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameLib\obj\Debug\GuessingGameLib.pdb
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameLib\bin\Debug\GuessingGameLib.xml
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameLib\obj\Debug\GuessingGameLib.csprojAssemblyReference.cache

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Guessing Game V2 Tech Docs" Url="html/dd8d2c40-45d4-4ecd-bbb0-d7a5ed370fb7.htm" />
+  <HelpTOCNode Id="75197705-2806-46e0-878d-2d40ef3db07c" Title="Version History" Url="html/759a3314-9e03-40f7-8903-75bd50a4359a.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/c199fce0-087c-4b58-b698-840f41870f90.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="5da39717-0b95-40ee-a65d-40c00a85b3d0" Title="GuessingGameForm" Url="html/bc340713-dd63-4a88-fb6c-5d11e0845221.htm">
+    <HelpTOCNode Id="42969dcb-5c06-4df0-87aa-d67f3cb38911" Title="GuessForm Class" Url="html/f2420b17-8593-b876-809e-aa2f303f6092.htm">
+      <HelpTOCNode Title="GuessForm Constructor " Url="html/a7d40d37-b93a-aec2-16d4-121c455c37e7.htm" />
+      <HelpTOCNode Title="GuessForm Properties" Url="html/35723dae-244d-46de-a638-46f6ecf9ab5b.htm" />
+      <HelpTOCNode Id="58d03011-7b56-48b2-afc7-0f2492e06ee2" Title="GuessForm Methods" Url="html/cfdcf8d3-9dbe-b58b-32e8-e7fdf53b057f.htm">
+        <HelpTOCNode Id="1a371f8c-23af-4002-b15e-8334cb2d0f79" Title="Dispose Method " Url="html/ec890578-671d-e330-4b4c-3030c97e9d96.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/d0be6b9d-8bbd-f392-515a-2eaceca48416.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GuessForm Events" Url="html/74bc7bc8-4d10-1860-93b5-85c48a6c9df5.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ee0db3dd-1650-4088-af0d-5186c2eaa490" Title="UserSpecificSettings Class" Url="html/b3dc645b-43ad-67f7-71c9-d0ef2c1457dc.htm">
+      <HelpTOCNode Title="UserSpecificSettings Constructor " Url="html/1c0c4583-717f-d5de-d38b-cbd2f31ba24c.htm" />
+      <HelpTOCNode Title="UserSpecificSettings Properties" Url="html/73766629-cf49-ae12-8a85-a9f8a2d44991.htm" />
+      <HelpTOCNode Id="14ffcc32-db61-4659-830b-e2290a0ace37" Title="UserSpecificSettings Methods" Url="html/cce46418-ccd2-3fcc-a7d6-6080ac1a3ad2.htm">
+        <HelpTOCNode Id="9c149d84-b725-4992-9742-67a68419efb4" Title="Dispose Method " Url="html/7835ae7b-a0af-90b5-6218-678d3a2fe9dc.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/0c5ead1c-7795-62c3-ae08-9ee750afa751.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="UserSpecificSettings Events" Url="html/904dfa4d-8518-1a27-cc06-98f2fea7c2cc.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="7e8f5d44-5202-49a4-bc29-806a26ea0029" Title="GuessingGameLib" Url="html/ef669b1f-e3f0-0f33-82ce-dd9f6fff7a98.htm">
+    <HelpTOCNode Id="8f883e53-499b-48be-b9b9-a9c6ed714584" Title="GameLogic Class" Url="html/cbbbb052-eaea-3521-b457-9b2b41005678.htm">
+      <HelpTOCNode Id="d16f3a64-9b7b-454c-97cb-c4cf66329aca" Title="GameLogic Constructor " Url="html/541a8bac-ddf8-daac-9be9-b7588badc4ff.htm">
+        <HelpTOCNode Title="GameLogic Constructor (Range)" Url="html/75560c67-9497-a9dd-92de-e95cc85afce6.htm" />
+        <HelpTOCNode Title="GameLogic Constructor (Range, Int32)" Url="html/928206d6-3e90-a1d9-fd0d-2dbccfb26944.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a5195310-d3fb-41ef-b830-fb88974a79e3" Title="GameLogic Properties" Url="html/79ff90f0-8a7a-acb5-7152-930e33d3bf82.htm">
+        <HelpTOCNode Title="GuessLimit Property " Url="html/86a14579-5cf7-fd7f-04a2-c07e8a737f45.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6606f059-db7a-4aa2-bb1a-e5ad31ff49ba" Title="GameLogic Methods" Url="html/d2dfed3f-0aaa-c080-d096-bfded96aeac4.htm">
+        <HelpTOCNode Title="VerifyGuess Method " Url="html/cf983376-b80b-f4cc-25bf-67b669bbc649.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0150a283-01b5-4c11-9993-ca5ca33a5316" Title="GameLogic Fields" Url="html/05f6f4d2-2e93-f216-deb0-5cbcc3436ffa.htm">
+        <HelpTOCNode Title="DefaultGuessLimit Field" Url="html/27d415f0-068f-2209-274e-080a4f6f268f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="GameState Enumeration" Url="html/12bc5246-6940-ecbc-af72-2728b6780d66.htm" />
+    <HelpTOCNode Id="79ccb7bc-82fe-4dce-af9b-1d84991fc1e0" Title="Range Structure" Url="html/f2473c32-e9f6-a4c6-038e-a2e64245f1d8.htm">
+      <HelpTOCNode Title="Range Constructor " Url="html/687f3c28-a300-d270-69fc-1c5068b3c50b.htm" />
+      <HelpTOCNode Id="70dd8457-bc7e-479a-bd84-606ffec495f0" Title="Range Properties" Url="html/c926c37f-d153-cf1b-15cc-ae2884ddeb50.htm">
+        <HelpTOCNode Title="LBound Property " Url="html/7ae8abfa-4bae-c5e5-312c-792649426b65.htm" />
+        <HelpTOCNode Title="UBound Property " Url="html/7028e9ed-ea7d-1ea3-3215-3d693f69b776.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Range Methods" Url="html/de9dd46b-85fb-01e7-9ee7-848acd775fba.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

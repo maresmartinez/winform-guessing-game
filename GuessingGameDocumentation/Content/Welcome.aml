@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<topic id="dd8d2c40-45d4-4ecd-bbb0-d7a5ed370fb7" revisionNumber="1">
+	<developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <introduction>
+      <para>
+        This project will play a guessing game where the user will enter a range for a random number to be
+        generated. The user will then try to guess the random number. They have a limited amount of guesses before game over.
+      </para>
+    </introduction>
+
+    <section>
+      <title>Getting Started</title>
+      <content>
+        <para>
+          To get started, run the project in Visual Studio. A form will appear. Enter numbers for upper and lower bound
+          and press "Start Game". A random number will be generated between the range. If an invalid range was given, the default
+          values of 1 and 10 are used. You will then be prompted guess the random number. If the guess is incorrect, you will be
+          given hints as to whether your guess is higher or lower than the random number. If the guess is correct, the game is
+          finished.
+        </para>
+      </content>
+    </section>
+
+		<relatedTopics>
+			<link xlink:href="759a3314-9e03-40f7-8903-75bd50a4359a" />
+		</relatedTopics>
+	</developerConceptualDocument>
+</topic>

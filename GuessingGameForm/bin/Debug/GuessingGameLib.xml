@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GuessingGameLib</name>
+    </assembly>
+    <members>
+        <member name="T:GuessingGameLib.GameLogic">
+            <summary>
+            Contains the logic for a game where one must guess a random number between a given range.
+            </summary>
+        </member>
+        <member name="F:GuessingGameLib.GameLogic.rNum">
+            <summary>
+            Random number to be guessed.
+            </summary>
+        </member>
+        <member name="P:GuessingGameLib.GameLogic.GuessLimit">
+            <summary>
+            Limits the amount of guesses the user can make. Uses the default guess limit.
+            </summary>
+        </member>
+        <member name="M:GuessingGameLib.GameLogic.#ctor(GuessingGameLib.Range)">
+            <summary>
+            Constructor that generates a random number. Uses default guess limit.
+            </summary>
+            <param name="range">Range object used to get upper and lower bounds for random number.</param>
+        </member>
+        <member name="M:GuessingGameLib.GameLogic.#ctor(GuessingGameLib.Range,System.Int32)">
+            <summary>
+            Constructor that generates a random number. Allows valid custom guess limit. 
+            Valid means positive integer that is greater than 1 (so that user has at least one guess). 
+            If invalid, uses default.
+            </summary>
+            <param name="range">Range object used to get upper and lower bounds for random number.</param>
+            <param name="guessLimit">Maximum number of guesses allowed.</param>
+        </member>
+        <member name="M:GuessingGameLib.GameLogic.VerifyGuess(System.Int32)">
+            <summary>
+            Takes uNum and compares it with rNum. If the user has no more guesses, returns game over state.
+            </summary>
+            <param name="uNum">The number to compare to the randomly generated number.</param>
+            <returns>GameState object that gives a hint of the relationship between rNum and uNum, or game over.</returns>
+        </member>
+        <member name="T:GuessingGameLib.GameState">
+            <summary>
+            Hints for whether a guess is correct or not.
+            </summary>
+        </member>
+        <member name="F:GuessingGameLib.GameState.GUESS_CORRECT">
+            <summary>
+            Guess is exactly correct.
+            </summary>
+        </member>
+        <member name="F:GuessingGameLib.GameState.TOO_LOW">
+            <summary>
+            Guess is too low.
+            </summary>
+        </member>
+        <member name="F:GuessingGameLib.GameState.TOO_HIGH">
+            <summary>
+            Guess is too high.
+            </summary>
+        </member>
+        <member name="F:GuessingGameLib.GameState.GAME_OVER">
+            <summary>
+            The user has made too many guesses and lost the game.
+            </summary>
+        </member>
+        <member name="T:GuessingGameLib.Range">
+            <summary>
+            Range will create a valid upper and lower bound. Valid means that the upper
+            bound must be larger than the lower bound.
+            </summary>
+        </member>
+        <member name="P:GuessingGameLib.Range.LBound">
+            <summary>
+            Lower bound for the range.
+            </summary>
+        </member>
+        <member name="P:GuessingGameLib.Range.UBound">
+            <summary>
+            Upper bound for the range.
+            </summary>
+        </member>
+        <member name="M:GuessingGameLib.Range.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Constructor that will either use a valid lower and upper bound, 
+            or use default values if the given values are invalid.
+            </summary>
+            <param name="lBound">Given lower bound.</param>
+            <param name="uBound">Given upper bound.</param>
+        </member>
+    </members>
+</doc>

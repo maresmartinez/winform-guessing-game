@@ -1,0 +1,13 @@
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameConsole\bin\Debug\GuessingGameConsole.exe.config
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameConsole\bin\Debug\GuessingGameConsole.exe
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameConsole\bin\Debug\GuessingGameConsole.pdb
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameConsole\bin\Debug\GuessingGameLib.dll
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameConsole\bin\Debug\GuessingGameLib.pdb
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameConsole\bin\Debug\GuessingGameLib.dll.config
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameConsole\obj\Debug\GuessingGameConsole.csprojAssemblyReference.cache
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameConsole\obj\Debug\GuessingGameConsole.csproj.CoreCompileInputs.cache
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameConsole\obj\Debug\GuessingGameConsole.csproj.CopyComplete
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameConsole\obj\Debug\GuessingGameConsole.exe
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameConsole\obj\Debug\GuessingGameConsole.pdb
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameConsole\bin\Debug\GuessingGameConsole.xml
+D:\Documents\Word Files\School\Coding\C#.NET\PROG37721\GuessingGameV2\GuessingGameConsole\bin\Debug\GuessingGameLib.xml

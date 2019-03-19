@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="DefaultGuessLimit field" Url="html/27d415f0-068f-2209-274e-080a4f6f268f.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="GuessForm.Dispose Method " Url="html/ec890578-671d-e330-4b4c-3030c97e9d96.htm" />
+    <HelpKINode Title="UserSpecificSettings.Dispose Method " Url="html/7835ae7b-a0af-90b5-6218-678d3a2fe9dc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GameLogic class">
+    <HelpKINode Title="GameLogic Class" Url="html/cbbbb052-eaea-3521-b457-9b2b41005678.htm" />
+    <HelpKINode Title="constructor" Url="html/541a8bac-ddf8-daac-9be9-b7588badc4ff.htm" />
+    <HelpKINode Title="fields" Url="html/05f6f4d2-2e93-f216-deb0-5cbcc3436ffa.htm" />
+    <HelpKINode Title="methods" Url="html/d2dfed3f-0aaa-c080-d096-bfded96aeac4.htm" />
+    <HelpKINode Title="properties" Url="html/79ff90f0-8a7a-acb5-7152-930e33d3bf82.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GameLogic.DefaultGuessLimit field" Url="html/27d415f0-068f-2209-274e-080a4f6f268f.htm" />
+  <HelpKINode Title="GameLogic.GameLogic constructor" Url="html/541a8bac-ddf8-daac-9be9-b7588badc4ff.htm" />
+  <HelpKINode Title="GameLogic.GuessLimit property" Url="html/86a14579-5cf7-fd7f-04a2-c07e8a737f45.htm" />
+  <HelpKINode Title="GameLogic.VerifyGuess method" Url="html/cf983376-b80b-f4cc-25bf-67b669bbc649.htm" />
+  <HelpKINode Title="GameState enumeration" Url="html/12bc5246-6940-ecbc-af72-2728b6780d66.htm" />
+  <HelpKINode Title="GAME_OVER enumeration member" Url="html/12bc5246-6940-ecbc-af72-2728b6780d66.htm" />
+  <HelpKINode Title="GuessForm class">
+    <HelpKINode Title="GuessForm Class" Url="html/f2420b17-8593-b876-809e-aa2f303f6092.htm" />
+    <HelpKINode Title="constructor" Url="html/a7d40d37-b93a-aec2-16d4-121c455c37e7.htm" />
+    <HelpKINode Title="events" Url="html/74bc7bc8-4d10-1860-93b5-85c48a6c9df5.htm" />
+    <HelpKINode Title="methods" Url="html/cfdcf8d3-9dbe-b58b-32e8-e7fdf53b057f.htm" />
+    <HelpKINode Title="properties" Url="html/35723dae-244d-46de-a638-46f6ecf9ab5b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GuessForm.Dispose method" Url="html/ec890578-671d-e330-4b4c-3030c97e9d96.htm" />
+  <HelpKINode Title="GuessForm.GuessForm constructor" Url="html/a7d40d37-b93a-aec2-16d4-121c455c37e7.htm" />
+  <HelpKINode Title="GuessingGameForm namespace" Url="html/bc340713-dd63-4a88-fb6c-5d11e0845221.htm" />
+  <HelpKINode Title="GuessingGameForm.GuessForm class" Url="html/f2420b17-8593-b876-809e-aa2f303f6092.htm" />
+  <HelpKINode Title="GuessingGameForm.UserSpecificSettings class" Url="html/b3dc645b-43ad-67f7-71c9-d0ef2c1457dc.htm" />
+  <HelpKINode Title="GuessingGameLib namespace" Url="html/ef669b1f-e3f0-0f33-82ce-dd9f6fff7a98.htm" />
+  <HelpKINode Title="GuessingGameLib.GameLogic class" Url="html/cbbbb052-eaea-3521-b457-9b2b41005678.htm" />
+  <HelpKINode Title="GuessingGameLib.GameState enumeration" Url="html/12bc5246-6940-ecbc-af72-2728b6780d66.htm" />
+  <HelpKINode Title="GuessingGameLib.Range structure" Url="html/f2473c32-e9f6-a4c6-038e-a2e64245f1d8.htm" />
+  <HelpKINode Title="GuessLimit property" Url="html/86a14579-5cf7-fd7f-04a2-c07e8a737f45.htm" />
+  <HelpKINode Title="GUESS_CORRECT enumeration member" Url="html/12bc5246-6940-ecbc-af72-2728b6780d66.htm" />
+  <HelpKINode Title="LBound property" Url="html/7ae8abfa-4bae-c5e5-312c-792649426b65.htm" />
+  <HelpKINode Title="Range structure">
+    <HelpKINode Title="Range Structure" Url="html/f2473c32-e9f6-a4c6-038e-a2e64245f1d8.htm" />
+    <HelpKINode Title="constructor" Url="html/687f3c28-a300-d270-69fc-1c5068b3c50b.htm" />
+    <HelpKINode Title="methods" Url="html/de9dd46b-85fb-01e7-9ee7-848acd775fba.htm" />
+    <HelpKINode Title="properties" Url="html/c926c37f-d153-cf1b-15cc-ae2884ddeb50.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Range.LBound property" Url="html/7ae8abfa-4bae-c5e5-312c-792649426b65.htm" />
+  <HelpKINode Title="Range.Range constructor" Url="html/687f3c28-a300-d270-69fc-1c5068b3c50b.htm" />
+  <HelpKINode Title="Range.UBound property" Url="html/7028e9ed-ea7d-1ea3-3215-3d693f69b776.htm" />
+  <HelpKINode Title="TOO_HIGH enumeration member" Url="html/12bc5246-6940-ecbc-af72-2728b6780d66.htm" />
+  <HelpKINode Title="TOO_LOW enumeration member" Url="html/12bc5246-6940-ecbc-af72-2728b6780d66.htm" />
+  <HelpKINode Title="UBound property" Url="html/7028e9ed-ea7d-1ea3-3215-3d693f69b776.htm" />
+  <HelpKINode Title="UserSpecificSettings class">
+    <HelpKINode Title="UserSpecificSettings Class" Url="html/b3dc645b-43ad-67f7-71c9-d0ef2c1457dc.htm" />
+    <HelpKINode Title="constructor" Url="html/1c0c4583-717f-d5de-d38b-cbd2f31ba24c.htm" />
+    <HelpKINode Title="events" Url="html/904dfa4d-8518-1a27-cc06-98f2fea7c2cc.htm" />
+    <HelpKINode Title="methods" Url="html/cce46418-ccd2-3fcc-a7d6-6080ac1a3ad2.htm" />
+    <HelpKINode Title="properties" Url="html/73766629-cf49-ae12-8a85-a9f8a2d44991.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UserSpecificSettings.Dispose method" Url="html/7835ae7b-a0af-90b5-6218-678d3a2fe9dc.htm" />
+  <HelpKINode Title="UserSpecificSettings.UserSpecificSettings constructor" Url="html/1c0c4583-717f-d5de-d38b-cbd2f31ba24c.htm" />
+  <HelpKINode Title="VerifyGuess method" Url="html/cf983376-b80b-f4cc-25bf-67b669bbc649.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/c199fce0-087c-4b58-b698-840f41870f90.htm" />
+    <HelpKINode Title="history" Url="html/759a3314-9e03-40f7-8903-75bd50a4359a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/dd8d2c40-45d4-4ecd-bbb0-d7a5ed370fb7.htm" />
+</HelpKI>

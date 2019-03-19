@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GuessingGameConsole</name>
+    </assembly>
+    <members>
+        <member name="T:GuessingGameConsole.Program">
+            <summary>
+            Entry point for the console guessing game.
+            </summary>
+        </member>
+        <member name="M:GuessingGameConsole.Program.Main(System.String[])">
+            <summary>
+            The main entry point for the application. Launches a console guessing game with a limited amount of tries and custom range.
+            </summary>
+        </member>
+    </members>
+</doc>
